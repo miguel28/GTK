@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 240D095B1512DD540075B9B9 /* GTKXcode */;
+		activeTarget = 8DD76F620486A84900D96B5E /* GTKXcode */;
+		codeSenseManager = 240D09651512DD730075B9B9 /* Code sense */;
+		executables = (
+			240D095B1512DD540075B9B9 /* GTKXcode */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					579,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					539,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353561754;
+			PBXWorkspaceStateSaveDate = 353561754;
+		};
+		perUserProjectItems = {
+			240D0AC51512E0BA0075B9B9 /* PBXTextBookmark */ = 240D0AC51512E0BA0075B9B9 /* PBXTextBookmark */;
+			240D0BFC1512ECBC0075B9B9 /* PBXTextBookmark */ = 240D0BFC1512ECBC0075B9B9 /* PBXTextBookmark */;
+			240D0C021512F00E0075B9B9 /* PBXTextBookmark */ = 240D0C021512F00E0075B9B9 /* PBXTextBookmark */;
+			240D0C031512F00E0075B9B9 /* PBXTextBookmark */ = 240D0C031512F00E0075B9B9 /* PBXTextBookmark */;
+			240D0C051512F00E0075B9B9 /* PBXTextBookmark */ = 240D0C051512F00E0075B9B9 /* PBXTextBookmark */;
+			240D0C071512F00E0075B9B9 /* PBXTextBookmark */ = 240D0C071512F00E0075B9B9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 240D09641512DD730075B9B9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {757, 418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+			sepNavWindowFrame = "{{16, 105}, {1177, 949}}";
+		};
+	};
+	240D095B1512DD540075B9B9 /* GTKXcode */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GTKXcode;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	240D09641512DD730075B9B9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	240D09651512DD730075B9B9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	240D0AAB1512DF800075B9B9 /* gtk.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = gtk.h;
+		path = /Library/Frameworks/GTK.framework/Headers/gtk/gtk.h;
+		sourceTree = "<absolute>";
+	};
+	240D0AC51512E0BA0075B9B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 240D0AAB1512DF800075B9B9 /* gtk.h */;
+		name = "gtk.h: 31";
+		rLen = 0;
+		rLoc = 1137;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 3214;
+	};
+	240D0BFC1512ECBC0075B9B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859E8B029090EE04C91782 /* GTKXcode.1 */;
+		name = "GTKXcode.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1550;
+		vrLoc = 0;
+	};
+	240D0C021512F00E0075B9B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	240D0C031512F00E0075B9B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 240D0C041512F00E0075B9B9 /* Makefile */;
+		name = "Makefile: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 114;
+		vrLoc = 0;
+	};
+	240D0C041512F00E0075B9B9 /* Makefile */ = {
+		isa = PBXFileReference;
+		name = Makefile;
+		path = /Users/miguelsilva/Desktop/Proyectos/GTK/SDL/Makefile;
+		sourceTree = "<absolute>";
+	};
+	240D0C051512F00E0075B9B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 240D0C061512F00E0075B9B9 /* Makefile */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	240D0C061512F00E0075B9B9 /* Makefile */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.make;
+		name = Makefile;
+		path = "/Users/miguelsilva/Desktop/SDL_gfx-2.0.23/Test/Makefile";
+		sourceTree = "<absolute>";
+	};
+	240D0C071512F00E0075B9B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 240D0C081512F00E0075B9B9 /* Makefile */;
+		name = "Makefile: 158";
+		rLen = 15;
+		rLoc = 6755;
+		rType = 0;
+		vrLen = 1066;
+		vrLoc = 6416;
+	};
+	240D0C081512F00E0075B9B9 /* Makefile */ = {
+		isa = PBXFileReference;
+		name = Makefile;
+		path = "/Users/miguelsilva/Desktop/SDL_gfx-2.0.23/Test/Makefile";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2917, 8918}}";
+			sepNavSelRange = "{6755, 15}";
+			sepNavVisRange = "{6416, 1066}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* GTKXcode */ = {
+		activeExec = 0;
+		executables = (
+			240D095B1512DD540075B9B9 /* GTKXcode */,
+		);
+	};
+	C6859E8B029090EE04C91782 /* GTKXcode.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {757, 949}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1550}";
+		};
+	};
+}
